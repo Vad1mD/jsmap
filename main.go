@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/Vad1mD/jsmap/cmd"
 
 func main() {
-	fmt.Println("Initial project creation")
+	cmd.Execute()
 }
